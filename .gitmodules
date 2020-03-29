@@ -1,0 +1,58 @@
+[submodule "syntastic"]
+	path = .vim/bundle/syntastic
+    url = https://github.com/scrooloose/syntastic
+
+
+[submodule "papercolor-theme"]
+	path = .vim/bundle/papercolor-theme
+    url = https://github.com/NLKNguyen/papercolor-theme
+
+
+[submodule "nerdtree"]
+	path = .vim/bundle/nerdtree
+    url = https://github.com/scrooloose/nerdtree
+
+
+[submodule "vim-colors-solarized"]
+	path = .vim/bundle/vim-colors-solarized
+    url = https://github.com/altercation/vim-colors-solarized
+
+
+[submodule "vimtex"]
+	path = .vim/bundle/vimtex
+    url = https://github.com/lervag/vimtex
+
+
+[submodule "vim-airline"]
+	path = .vim/bundle/vim-airline
+    url = https://github.com/vim-airline/vim-airline
+
+
+[submodule "gruvbox"]
+	path = .vim/bundle/gruvbox
+    url = https://github.com/morhetz/gruvbox
+
+
+[submodule "YouCompleteMe"]
+	path = .vim/bundle/YouCompleteMe
+    url = https://github.com/ycm-core/YouCompleteMe
+
+
+[submodule "flattened"]
+	path = .vim/bundle/flattened
+    url = https://github.com/romainl/flattened
+
+[submodule "meta5"]
+    path = .vim/bundle/meta5
+    url = https://github.com/christophermca/meta5
+
+[submodule "vim-color-raggi"]
+    path = .vim/bundle/vim-color-raggi
+    url = https://github.com/raggi/vim-color-raggi
+
+
+[submodule "vim-monokai"]
+    path = .vim/bundle/vim-monokai
+    url = https://github.com/crusoexia/vim-monokai
+
+
